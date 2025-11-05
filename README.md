@@ -9,7 +9,6 @@ Chat with AI Bot directly from your browser. This project uses only the free-tie
 - Chat with AI Bot in real-time
 - Free-tier uses with Gemini Flash API
 - Light Flask backend
-- Understandable code with well define comment
 
 ---
 
@@ -19,3 +18,4 @@ Chat with AI Bot directly from your browser. This project uses only the free-tie
 ```bash
 git clone https://github.com/vikashmehta292511/Project_Bot.git
 cd Project_Bot
+Then run the project open html file in local host
